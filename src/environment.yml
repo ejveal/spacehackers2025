@@ -1,0 +1,16 @@
+name: space_hackers
+channels:
+- conda-forge
+dependencies:
+- python=3.11
+- xarray
+- dask
+- netCDF4
+- numpy
+- pandas
+- matplotlib
+- cartopy
+- jupyterlab
+- aiohttp
+- scipy
+- tqdm
