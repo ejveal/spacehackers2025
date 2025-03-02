@@ -6,7 +6,7 @@ To install minimal dependencies:
 
 1. Clone project into local workstation
 ```
-git clone https://...
+git clone https://github.com/ejveal/spacehackers2025.git
 ```
 2. Navigate to cloned repo and activate mamba/conda environment.
 ```
